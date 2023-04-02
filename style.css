@@ -1,0 +1,13 @@
+/* odin recipes CSS */
+.main-heading {
+text-align: center;
+background-color: aqua;
+font-style: italic;
+font-family: Papyrus;
+}
+div {
+    background-color: green;
+    font-size: 18px;
+    font-family: papyrus;
+    text-align: center;
+}
